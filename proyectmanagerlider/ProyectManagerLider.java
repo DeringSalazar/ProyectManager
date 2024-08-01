@@ -4,17 +4,11 @@
  */
 package proyectmanagerlider;
 
-/**
- *
- * @author Student
- */
 public class ProyectManagerLider {
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
-        // TODO code application logic here
+        
     }
     
 }
