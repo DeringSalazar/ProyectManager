@@ -4,6 +4,7 @@
  */
 package Projects;
 
+import Tasks.Task;
 import java.util.ArrayList;
 
 /**
@@ -28,7 +29,7 @@ public class Project {
     }
     
     public void addTasks(Task task){
-        this.addTasks(Task);
+        this.addTasks(task);
     }
 
     public Project(int id, String name) {
