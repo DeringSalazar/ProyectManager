@@ -7,10 +7,7 @@ package Projects;
 import Tasks.Task;
 import java.util.ArrayList;
 
-/**
- *
- * @author pamel
- */
+
 public class Project {
     private int id;
     private String name;
