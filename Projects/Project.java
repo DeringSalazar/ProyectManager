@@ -31,7 +31,7 @@ public class Project {
     public void addTasks(Task task){
         this.addTasks(task);
     }
-
+    
     public Project(int id, String name) {
         this.id = id;
         this.name = name;
